@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="Item.css"?>
+<items>
+<item type="Electronics">
+<Iname >Home Theator</Iname>
+<Iprice>2000</Iprice>
+<quantity>1</quantity>
+</item>
+
+
+<item type="sports">
+<Iname >HollyBall</Iname>
+<Iprice>500</Iprice>
+<quantity>2</quantity>
+</item>
+
+<item type="Cloths">
+<Iname >Jogger</Iname>
+<Iprice>400</Iprice>
+<quantity>3</quantity>
+</item>
+
+<item type="Grocery">
+<Iname >Kalya Pathichi Udid Dal</Iname>
+<Iprice>120</Iprice>
+<quantity>5kg</quantity>
+</item>
+</items>

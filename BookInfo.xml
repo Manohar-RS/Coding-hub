@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="BookInfo.css"?>
+<BookInfo>
+<book>
+<bookno>1</bookno>
+<bookname>PHP</bookname>
+<authorname>S.Kadam</authorname>
+<price>350</price>
+<year>2024</year>
+</book>
+
+<book>
+<bookno>2</bookno>
+<bookname>Java</bookname>
+<authorname>Balguru Swami</authorname>
+<price>300</price>
+<year>2023</year>
+</book>
+
+<book>
+<bookno>3</bookno>
+<bookname>C Programming Language</bookname>
+<authorname>Denis Ritchie </authorname>
+<price>350</price>
+<year>2022</year>
+</book>
+
+<book>
+<bookno>4</bookno>
+<bookname>Database system</bookname>
+<authorname>Rogers Presman</authorname>
+<price>350</price>
+<year>2022</year>
+</book>
+</BookInfo>
